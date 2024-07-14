@@ -1,4 +1,4 @@
-# REACT router CRUD
+# Note board with CRUD
 
 [![AACMKT ra-progects](https://github.com/AACMKT/ra-lifecycle-http_crud/actions/workflows/web.yml/badge.svg)](https://github.com/AACMKT/ra-lifecycle-http_crud/actions/workflows/web.yml)
 
